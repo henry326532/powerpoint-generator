@@ -23,7 +23,11 @@ Give me more information about Slide 2 ....
 
 Now write the VBA code to create the PowerPoint slides for this deck. Occasionally add humorous and whimsical content.
 
-## 4. Generate Image
+## 4. Error
+
+This vba code has some error help me correcr it.
+
+## 5. Generate Image
 
 Stable Diffusion is an AI art generation model similar to DALLE-2.
 Here are some prompts for generating art with Stable Diffusion. 
@@ -56,7 +60,8 @@ The prompt should adhere to and include all of the following rules:
 
 I want you to write me a list of detailed prompts exactly about the IDEA follow the rule at least 6 every time.
 
-IDEA: Slide 2: '''Overview of Python
+IDEA: 
+'''Slide 2: Overview of Python
 
 Highlight Python's simplicity and readability
 Mention its extensive standard library and vibrant community support
